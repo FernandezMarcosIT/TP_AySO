@@ -1,0 +1,74 @@
+apt update
+sudo apt update
+apt list
+clear
+asd
+clear
+c7c7C
+clear
+lsmod
+lsmod grep vboxguest
+cle
+clear
+sudo apt upgrade
+apt list 
+sudo apt istall bzip2
+clear
+ssh-keygen
+mkdir repogit
+“$HOME/repogit/”
+clear
+cat $HOME/.ssh/*.pub
+“$HOME/repogit/”
+mkdir repogit
+cd repogit
+lear
+clear
+cd
+cd repogit
+pwd
+ls-| cd repogit
+ls-| os-release
+os-release
+clear
+ls-| os-release
+ls -l
+os-release
+“os-release“
+git clone <git@github.com:FernandezMarcosIT/TP_AySO.git>
+git clone git@github.com:FernandezMarcosIT/TP_AySO.git
+cd TP_AySO/ pwd
+ls -l
+cd TP_AySO/
+pwd
+ls -l
+os release
+os-release
+cat /etc/os-release
+/etc/os-release
+sudo /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep homeurl_ /etc/os-release
+grep https://www.ubuntu.com/" Home_url /etc/os-release
+whoami
+whoami
+
+
+
+id -un
+“usuario:<marc>
+“Usuario=$(whoami)” > datos_usuario.txt
+cd repogit
+cd repogit
+cd repogit
+clear
+
+yo 
+yo@Mark:~/repogit/TP_AySO$ 
+cd repogit
+cd TP_AySO
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario" 
+git push
+history -a
